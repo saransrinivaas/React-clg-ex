@@ -1,0 +1,15 @@
+import React from "react";
+function Day1c1(){
+    function alertMSG(){
+        alert("A Message from JAVASCRIPT ALERT!");
+        console.log("Message for devolepers!");
+    };
+
+    return (
+        <div>
+            <h1>Let we seee the output of JAVASCRIPT</h1>
+            <button onClick={alertMSG}>Click me</button>
+        </div>
+    )
+}
+export default Day1c1;
