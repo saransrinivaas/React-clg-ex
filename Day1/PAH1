@@ -1,0 +1,8 @@
+import React from "react";
+function D1p1(){
+    return (
+      <div>
+        <p>This is a funciontional component</p>
+      </div>  
+    );
+}
