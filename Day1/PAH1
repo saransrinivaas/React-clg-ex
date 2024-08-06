@@ -6,3 +6,4 @@ function D1p1(){
       </div>  
     );
 }
+export default D1p1;
